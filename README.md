@@ -21,7 +21,7 @@ The company certainly needs a research result from historical data to determine 
 
 ## Data Understanding
 1. **Source**: https://www.kaggle.com/datasets/pratikgarai/mobile-phone-specifications-and-prices
-2. Lisensi: Unknown
-3. Cattegory: Mobile & Wireless
-4. Format & Size: CSV (156.33 kb)
+2. **License**: Unknown
+3. **Cattegory**: Mobile & Wireless
+4. **Format & Size**: CSV (156.33 kb)
 
