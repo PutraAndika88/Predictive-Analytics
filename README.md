@@ -18,3 +18,10 @@ The company certainly needs a research result from historical data to determine 
 1. To get a competitive smartphone price in the market, we can use multivariate regression techniques on this data
 2. To gain insight into competitor smartphone prices, we can conduct exploratory data analysis
 3. to find out the features that are most highly correlated with the price of smartphones, we can visualize the data by displaying a correlation diagram between variables
+
+## Data Understanding
+1. **Source**: https://www.kaggle.com/datasets/pratikgarai/mobile-phone-specifications-and-prices
+2. Lisensi: Unknown
+3. Cattegory: Mobile & Wireless
+4. Format & Size: CSV (156.33 kb)
+
